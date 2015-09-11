@@ -1,0 +1,6 @@
+
+#Abrir o terminal e identificar o local onde se encontra com o comando $pwd
+#com o comando $ls, listar as pastas e arquivos do diretorio onde nos encontramos,
+#com o comando $cd, acessamos o diretorio desejado, no caso, Desktop/
+#no Desktop, com o comando $mkdir, criamos uma pasta chamada pratica-shell
+#Usando o Sublime Text 2, criamos um arquivo chamado intro-shell.txt indicando o passo a passo da tarefa,
