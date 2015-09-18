@@ -1,6 +1,3 @@
 Instruções do embaralhamento 
 Para toda comparação, se a carta anterior for maior que a posterior, troca-se as posições entre elas.
-Comparar a primeira com a última, depois com a quarta, com a terceira e finalmente com a segunda.
-Após isso, comparar a segunda carta com a última, com a quarta e finalmente com a terceira. 
-Após isso, comparar a terceira com a última e finalmente com a quarta.
-Após isso, comparar a quarta com a última, e assim, teremos com certeza uma disposição crescente entre as cartas!
+Comparar a primeira carta com as demais verificando a sua posição e posteriormente excluindo-a da comparação de modo que a carta seguinte ocupe a primeira posição e todas as verificações sejam feitas organizando as cartas em ordem crescente.
