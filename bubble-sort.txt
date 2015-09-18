@@ -1,0 +1,8 @@
+Metodo bubble sort do professor
+Para carta de A --> D comparar a carta com a da frente --> E 
+se a carta for menor que a outra, mantem, caso contrário, troca.
+Para i indo de 0 ate n-2, e para j indo de i+1 até n-1 (i e j representam as posições das cartas)
+Se as cartas forem menor que a carta j, mantém, caso contrário troca: 
+temp <-- carta i
+carta i <-- carta j
+carta j <-- temp
